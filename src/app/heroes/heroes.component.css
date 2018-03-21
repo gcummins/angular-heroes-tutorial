@@ -50,7 +50,3 @@
 #container {
   display: flex;
 }
-
-:host {
-  background-color: lightblue;
-}
